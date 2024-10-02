@@ -30,9 +30,3 @@
   <a href = "mailto:laurabteixeira143@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/lau.tx" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
-
-##
-
-<div style="text-align: center;">
-  <img src="https://media.giphy.com/media/5cmZN7Py5MI24/giphy.gif" alt="Bye Bye GIF" width="480" height="269">
-</div>
