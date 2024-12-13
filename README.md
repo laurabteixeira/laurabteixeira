@@ -1,10 +1,10 @@
 ### Hi there 👋, I'm Laura Teixeira!
 
-- 🕹️ I'm a fullstack developer passionate about technology, design, engineering, games and learning new things.
-- 🖥️ Graduating in Computer Engineering.
-- 😊 I also design stuff in my free time.
+- 🤗 I'm a fullstack developer passionate about technology, design, engineering, games and learning new things.
+- 🤚🏻😎 Graduating in Computer Engineering.
+- 💅🏻 I also design stuff in my (free time🤔).
 
-## Technologies 🚀
+## Technologies ☝🏻🤓
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Lau-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
@@ -24,7 +24,7 @@
   <img align="center" alt="Lau-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 </div>
 
-## Contact
+## Contact 🤙🏻🫡
 
 <div>
   <a href = "mailto:laurabteixeira143@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
