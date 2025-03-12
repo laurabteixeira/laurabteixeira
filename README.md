@@ -31,4 +31,4 @@
   <a href="https://instagram.com/lau.tx" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
 
-<img src="https://media.tenor.com/images/80b53d6f2a09c6d0c8c778522d4feff0/tenor.gif" alt="Rock Lee Take Off Weights" />
+<img src="https://media1.tenor.com/m/KHFiSxhUNpgAAAAC/rock-lee-anime.gif" alt="Rock Lee Take Off Weights" />
