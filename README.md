@@ -4,8 +4,6 @@
 - 🤚🏻😎 Graduating in Computer Engineering.
 - 💅🏻 I also design stuff in my (free time🤔).
 
-![Rock Lee Taking Off Weights](https://media.tenor.com/0BG7UBzxa8MAAAAC/rock-lee-anime-naruto-take-off-weights.gif)
-
 ## Technologies ☝🏻🤓
 
 <div style="display: inline_block"><br>
@@ -32,3 +30,5 @@
   <a href = "mailto:laurabteixeira143@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/lau.tx" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
+
+<img src="https://media.tenor.com/images/80b53d6f2a09c6d0c8c778522d4feff0/tenor.gif" alt="Rock Lee Take Off Weights" />
