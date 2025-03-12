@@ -4,6 +4,8 @@
 - 🤚🏻😎 Graduating in Computer Engineering.
 - 💅🏻 I also design stuff in my (free time🤔).
 
+![Rock Lee Taking Off Weights](https://media.tenor.com/0BG7UBzxa8MAAAAC/rock-lee-anime-naruto-take-off-weights.gif)
+
 ## Technologies ☝🏻🤓
 
 <div style="display: inline_block"><br>
